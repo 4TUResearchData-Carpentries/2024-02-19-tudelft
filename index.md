@@ -1,4 +1,4 @@
-![image](https://github.com/4TUResearchData-Carpentries/2024-02-19-tudelft/assets/33600128/d81f3663-e732-405c-8a66-a3aadafc6634)---
+---
 layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
